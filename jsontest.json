@@ -1,0 +1,63 @@
+{
+    "commandes": [
+        {"id": "cmd_001", "date": "01 janvier 2021", "client_id": "client_001", "client_prenom": "Jerome", "client_nom": "Boudin" },
+        {"id": "cmd_002", "date": "15 mars 2021", "client_id": "client_002", "client_prenom": "Sophie", "client_nom": "Clavier" },
+        {"id": "cmd_003", "date": "21 avril 2021", "client_id": "client_003", "client_prenom": "Laura", "client_nom": "Boulez" }
+    ],
+    "commandesDeux": [
+        {   "id": "001_id", 
+            "numero_cmd": "405560003", 
+            "date_cmd": "01/05/2019", 
+            "date_exp": "03/05/2019",
+            "date_rec": "09/05/2019",
+            "adresse_relais": "57 rue Jean Pierre Timbaud", 
+            "mode_livraison": "standard", 
+            "paiement": "visa", 
+            "client_id": "client_SH_01",
+            "client_nom": "Shannon",
+            "client_prenom": "Honniball",
+            "client_tel": "0664262272",
+            "articles" : [
+                { "id_art": "matelas001_id", "name": "L'incroyable matelas", "quantité": 1, "largeur": "160", "longueur": "200", "prix": "750" },
+                { "id_art": "oreiller001_id", "name": "L'incroyable oreiller", "quantité": 2, "largeur": "60 ", "longueur": "60", "prix": "85" },
+                { "id_art": "couette001_id", "name": "l'incroyable couette", "quantité": 1, "largeur": "240", "longueur": "220", "prix": "210" }
+            ] 
+        },
+        {   "id": "002_id", 
+            "numero_cmd": "405566543", 
+            "date_cmd": "01/05/2019", 
+            "date_exp": "03/05/2019",
+            "date_rec": "09/05/2019",
+            "adresse_relais": "57 rue Jean Pierre Timbaud", 
+            "mode_livraison": "standard", 
+            "paiement": "visa", 
+            "client_id": "client_SH_01",
+            "client_nom": "Shannon",
+            "client_prenom": "Honniball",
+            "client_tel": "0664262272",
+            "articles" : [
+                { "id_art": "matelas001_id", "name": "L'incroyable matelas", "quantité": 1, "largeur": "160", "longueur": "200", "prix": "750" },
+                { "id_art": "oreiller001_id", "name": "L'incroyable oreiller", "quantité": 2, "largeur": "60 ", "longueur": "60", "prix": "85" },
+                { "id_art": "couette001_id", "name": "l'incroyable couette", "quantité": 1, "largeur": "240", "longueur": "220", "prix": "210" }
+            ] 
+        },
+        {   "id": "003_id", 
+            "numero_cmd": "405556503", 
+            "date_cmd": "01/05/2019", 
+            "date_exp": "03/05/2019",
+            "date_rec": "09/05/2019",
+            "adresse_relais": "57 rue Jean Pierre Timbaud", 
+            "mode_livraison": "standard", 
+            "paiement": "visa", 
+            "client_id": "client_SH_01",
+            "client_nom": "Shannon",
+            "client_prenom": "Honniball",
+            "client_tel": "0664262272",
+            "articles" : [
+                { "id_art": "matelas001_id", "name": "L'incroyable matelas", "quantité": 1, "largeur": "160", "longueur": "200", "prix": "750" },
+                { "id_art": "oreiller001_id", "name": "L'incroyable oreiller", "quantité": 2, "largeur": "60 ", "longueur": "60", "prix": "85" },
+                { "id_art": "couette001_id", "name": "l'incroyable couette", "quantité": 1, "largeur": "240", "longueur": "220", "prix": "210" }
+            ] 
+        }
+    ]
+}
