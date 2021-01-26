@@ -59,5 +59,10 @@
                 { "id_art": "couette001_id", "name": "l'incroyable couette", "quantité": 1, "largeur": "240", "longueur": "220", "prix": "210" }
             ] 
         }
+    ],
+    "amis": [
+        {"id_ami": "Jean"},
+        {"id_ami": "Lea"},
+        {"id_ami": "Solene"}
     ]
 }
